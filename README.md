@@ -1,0 +1,4 @@
+- Hi, I’m @danixll
+- I’m interested in graphics development and web development!
+- Pronouns: he / him / his
+- Fun fact: I'm a student living in germany.
