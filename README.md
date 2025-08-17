@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danixll
 - 👀 I’m interested in game and web development!
-- 🌱 I’m currently learning HTML / CSS / LuaU.
+- 🌱 I’m currently studying Graphics-Engineering.
 - 💞️ I’m not currently looking to collaborate.
 - 😄 Pronouns: he / him.
 - ⚡ Fun fact: I'm a student living in germany.
